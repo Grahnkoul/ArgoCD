@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: jozefowiczadam/frontend:lastest
+        image: jozefowiczadam/frontend:RC-5.7446236
         ports:
         - containerPort: 5000
         env:
